@@ -2,9 +2,8 @@
 <h3 align="center">Dedicated Frontend Developer on a Journey Towards Mastery: Exploring Full Stack Web Development and DevOps Expertise.</h3>
 
 <p align="center">
-  <img src="your_image_url_here" alt="Coding" width="100%" />
+  <img src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" alt="Coding" width="100%" />
 </p>
- src= "https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshukl&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshukl" /> </p>
 
