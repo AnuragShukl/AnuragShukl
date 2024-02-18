@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anurag Shukla</h1>
 <h3 align="center">Dedicated Frontend Developer on a Journey Towards Mastery: Exploring Full Stack Web Development and DevOps Expertise.</h3>
+
 <img align="right" alt="Coding" width="400" src= "https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshukl&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshukl" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragshukl" alt="anuragshukl" /></a> </p>
